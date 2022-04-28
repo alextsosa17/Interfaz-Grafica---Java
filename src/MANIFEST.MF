@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Alex Felicetti
+Main-Class: Bienvenido
+X-COMMENT: Mi primera interfaz en Java
+
+para crear el manifesto exe es:
+	jar cvfm NombreArchivo.jar manifest.mf clase1.class clase2.class clase3.class CarpetaImagenes/nombreimagen.png carpetaImagenes/nombreimagen2.png 
